@@ -1,4 +1,4 @@
-package com.example.mindpad.ui.navigation
+package com.example.mindpad.view.navigation
 
 data class BottomNavigationItem(
     val icon: Int,

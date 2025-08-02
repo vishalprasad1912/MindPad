@@ -1,4 +1,4 @@
-package com.example.mindpad.ui.theme
+package com.example.mindpad.view.theme
 
 import androidx.compose.ui.graphics.Color
 

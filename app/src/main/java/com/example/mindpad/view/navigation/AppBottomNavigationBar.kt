@@ -1,4 +1,4 @@
-package com.example.mindpad.ui.navigation
+package com.example.mindpad.view.navigation
 
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
